@@ -1,0 +1,11 @@
+
+.external-links {
+  margin-top:1em;
+}
+
+.external-links a {
+  margin-right:.4em;
+}
+.external-links a:last-child {
+  margin-right: 0;
+}
